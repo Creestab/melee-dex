@@ -1,0 +1,6 @@
+[submodule "slippi/slippi-set-stats"]
+	path = slippi/slippi-set-stats
+	url = https://github.com/creestab-gaming/slippi-set-stats
+[submodule "slippi/slippi-wiki"]
+	path = slippi/slippi-wiki
+	url = https://github.com/creestab-gaming/slippi-wiki
